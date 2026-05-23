@@ -4,6 +4,12 @@
 
 This repository contains a reflective systems-engineering memo exploring how hyperautomation, offshoring, generative AI, and fragmented work structures interact with organizational resilience and systemic capability.
 
+<p align="center">
+  <a href="./paper/hyperautomation_systemic_engineering_publication_ready.pdf">
+    <img src="https://img.shields.io/badge/Open-High%20Level%20View-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open High Level View PDF">
+  </a>
+</p>
+
 Rather than framing AI as a simple “replacement” problem, the memo explores:
 
 - silent failure modes
@@ -21,12 +27,6 @@ The paper draws on:
 - resilience engineering,
 - innovation systems,
 - and sociotechnical systems research.
-
-<p align="center">
-  <a href="./paper/hyperautomation_systemic_engineering_publication_ready.pdf">
-    <img src="https://img.shields.io/badge/Open-High%20Level%20View-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open High Level View PDF">
-  </a>
-</p>
 
 ## Important Disclaimer
 
