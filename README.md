@@ -22,17 +22,17 @@ The paper draws on:
 - innovation systems,
 - and sociotechnical systems research.
 
-## Important Disclaimer
-
-This memo proposes conceptual interpretations grounded in operational experience and selected literature, not a statistically validated causal model.
-
-Operational examples are illustrative composites inspired by real-world system dynamics but do not describe any identifiable individual, client, production environment, or operational incident.
-
 <p align="center">
   <a href="./paper/hyperautomation_systemic_engineering_publication_ready.pdf">
     <img src="https://img.shields.io/badge/Open-High%20Level%20View-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open High Level View PDF">
   </a>
 </p>
+
+## Important Disclaimer
+
+This memo proposes conceptual interpretations grounded in operational experience and selected literature, not a statistically validated causal model.
+
+Operational examples are illustrative composites inspired by real-world system dynamics but do not describe any identifiable individual, client, production environment, or operational incident.
 
 ## License
 
