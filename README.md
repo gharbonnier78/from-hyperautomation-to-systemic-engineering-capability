@@ -28,6 +28,38 @@ This memo proposes conceptual interpretations grounded in operational experience
 
 Operational examples are illustrative composites inspired by real-world system dynamics but do not describe any identifiable individual, client, production environment, or operational incident.
 
+<p align="center">
+  <a href="./airport_system_of_systems_interview_brief.pdf">
+    <img src="https://img.shields.io/badge/Open-High%20Level%20View-0B5FFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open High Level View PDF">
+  </a>
+  &nbsp;
+  <a href="./airport_ecosystem_interview_support_document_II_good_batches.pdf">
+    <img src="https://img.shields.io/badge/Open-Technical%20Stack%20View-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Open Technical Stack View PDF">
+  </a>
+</p>
+
+## License
+
+This repository uses a dual-license structure.
+
+### Whitepaper and documentation
+
+The whitepaper, diagrams, figures, and non-code documentation are licensed under:
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+You may share and adapt the material, including for commercial purposes, provided that you give appropriate credit, indicate changes, and distribute adaptations under the same license.
+
+### Code and scripts
+
+All source code, scripts, generators, validators, schemas, and automation examples are licensed under:
+
+Apache License 2.0.
+
+### No endorsement
+
+Modified versions must not imply endorsement by the original author unless explicitly agreed.
+
 ## Main Concepts
 
 - Texture of Error
